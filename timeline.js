@@ -1,9 +1,9 @@
 
 const CONFIG = {
-    // Fecha en que empezaron a salir (YYYY-MM-DD)
+    // Fecha en que empezamos a salir (YYYY-MM-DD)
     START_DATE: '2026-03-14',
 
-    // Horas hablando (cambiá el número cuando quieras)
+    // Horas hablando 
     HOURS_TALKING: 3+0.5+2+1.5,
 
     // ID del video de YouTube para la música
