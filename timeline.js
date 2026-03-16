@@ -44,14 +44,14 @@ const MOMENTS = [
             'Images/14-02-2026/Img1.HEIC',
             'Images/14-02-2026/Img2.HEIC',
             'Images/14-02-2026/Img3.HEIC',
-            '/Images/14-02-2026/Img4.HEIC',
-            '/Images/14-02-2026/Img5.HEIC',
-            '/Images/14-02-2026/Img6.HEIC',
-            '/Images/14-02-2026/Img7.HEIC',
-            '/Images/14-02-2026/Img8.HEIC',
-            '/Images/14-02-2026/Img9.HEIC',
-            '/Images/14-02-2026/Img10.HEIC',
-            '/Images/14-02-2026/Img11.HEIC'
+            'Images/14-02-2026/Img4.HEIC',
+            'Images/14-02-2026/Img5.HEIC',
+            'Images/14-02-2026/Img6.HEIC',
+            'Images/14-02-2026/Img7.HEIC',
+            'Images/14-02-2026/Img8.HEIC',
+            'Images/14-02-2026/Img9.HEIC',
+            'Images/14-02-2026/Img10.HEIC',
+            'Images/14-02-2026/Img11.HEIC'
         ],
     },
     {
@@ -60,11 +60,11 @@ const MOMENTS = [
         title: 'Maquillaje y... Stand By Me',
         desc:  'Un dia especial donde nos acercamos mas y compartimos momentos que nos llevaron a un nuevo mivel de confianza y cariño.',
         photos: [
-            '/Images/13-03-2026/Img1.HEIC',
-            '/Images/13-03-2026/Img2.HEIC',
-            '/Images/13-03-2026/Img3.HEIC',
-            '/Images/13-03-2026/Vid1.MOV',
-            '/Images/13-03-2026/Vid2.MOV'
+            'Images/13-03-2026/Img1.HEIC',
+            'Images/13-03-2026/Img2.HEIC',
+            'Images/13-03-2026/Img3.HEIC',
+            'Images/13-03-2026/Vid1.MOV',
+            'Images/13-03-2026/Vid2.MOV'
         ]
     },
     {
@@ -73,18 +73,18 @@ const MOMENTS = [
         title: 'Palmas y... ¡Oficialmente novios!',
         desc:  'El día que oficialmente nos convertimos en novios. Fue un día lleno de emociones, risas y momentos inolvidables que marcaron el comienzo de nuestra hermosa historia juntos.',
         photos: [
-            '/Images/14-03-2026/Img1.JPG',
-            '/Images/14-03-2026/Img2.HEIC',
-            '/Images/14-03-2026/Img3.HEIC',
-            '/Images/14-03-2026/Img4.HEIC',
-            '/Images/14-03-2026/Img5.HEIC',
-            '/Images/14-03-2026/Img6.HEIC',
-            '/Images/14-03-2026/Img7.HEIC',
-            '/Images/14-03-2026/Img8.HEIC',
-            '/Images/14-03-2026/Img9.JPG',
-            '/Images/14-03-2026/Img10.HEIC',
-            '/Images/14-03-2026/Img11.HEIC',
-            '/Images/14-03-2026/Img12.HEIC'
+            'Images/14-03-2026/Img1.JPG',
+            'Images/14-03-2026/Img2.HEIC',
+            'Images/14-03-2026/Img3.HEIC',
+            'Images/14-03-2026/Img4.HEIC',
+            'Images/14-03-2026/Img5.HEIC',
+            'Images/14-03-2026/Img6.HEIC',
+            'Images/14-03-2026/Img7.HEIC',
+            'Images/14-03-2026/Img8.HEIC',
+            'Images/14-03-2026/Img9.JPG',
+            'Images/14-03-2026/Img10.HEIC',
+            'Images/14-03-2026/Img11.HEIC',
+            'Images/14-03-2026/Img12.HEIC'
         ]
     }
     // ─────────────────────────────────────────────────────────
