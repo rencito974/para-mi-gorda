@@ -41,9 +41,9 @@ const MOMENTS = [
         title: 'San Valentín 2026',
         desc:  'El día que empezó todo.',
         photos: [
-            '/Images/14-02-2026/Img1.HEIC',
-            '/Images/14-02-2026/Img2.HEIC',
-            '/Images/14-02-2026/Img3.HEIC',
+            'Images/14-02-2026/Img1.HEIC',
+            'Images/14-02-2026/Img2.HEIC',
+            'Images/14-02-2026/Img3.HEIC',
             '/Images/14-02-2026/Img4.HEIC',
             '/Images/14-02-2026/Img5.HEIC',
             '/Images/14-02-2026/Img6.HEIC',
