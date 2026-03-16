@@ -1,6 +1,4 @@
-// ============================================================
-//  CONFIGURACIÓN — Todo se edita acá en el código
-// ============================================================
+
 const CONFIG = {
     // Fecha en que empezaron a salir (YYYY-MM-DD)
     START_DATE: '2026-03-14',
@@ -16,9 +14,7 @@ const CONFIG = {
     HIS_BIRTHDAY: '02-27',
 };
 
-// ============================================================
-//  MOMENTOS — Agregá, editá o borrá entradas acá
-//
+
 //  Tipos disponibles:
 //    'visit'     → 💑 Nos vimos
 //    'letter'    → 💌 Carta de amor
@@ -36,18 +32,9 @@ const CONFIG = {
 //    title:  'Título',
 //    desc:   'Descripción (opcional)',
 //    photos: ['Images/foto1.jpg', 'Images/foto2.jpg'],   ← opcional
-//  },
-//
-//  • 1-3 fotos/videos  → se muestran en fila, click abre el archivo grande
-//  • 4+ fotos/videos   → las primeras 3 se muestran con "+N más" en la última,
-//                        click en el grupo abre la galería completa
-//
-//  Podés mezclar fotos y videos en el mismo array:
-//  photos: ['Images/foto.jpg', 'Images/video.mp4', 'Images/clip.mov']
-//  Extensiones de video soportadas: mp4, mov, webm, ogg, mkv, m4v
+//  }.
 // ============================================================
 const MOMENTS = [
-    // ── Ejemplos — borrá estos y poné los tuyos ──────────────
     {
         date:  '2026-02-14',
         type:  'loversday',
@@ -76,7 +63,8 @@ const MOMENTS = [
             '/Images/13-03-2026/Img1.HEIC',
             '/Images/13-03-2026/Img2.HEIC',
             '/Images/13-03-2026/Img3.HEIC',
-            '/Images/13-03-2026/Vid1.MOV'
+            '/Images/13-03-2026/Vid1.MOV',
+            '/Images/13-03-2026/Vid2.MOV'
         ]
     },
     {
