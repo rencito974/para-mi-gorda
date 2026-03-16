@@ -92,7 +92,7 @@ const MOMENTS = [
 
 // ── Daily Messages ──────────────────────────────────────────
 const DAILY_MESSAGES = [
-    "Sos el mejor error que cometí en mi vida.",
+    "Sos lo mejor de mi vida.",
     "Cada día que pasa, te quiero más de lo que creía posible.",
     "En cualquier universo, te volvería a elegir.",
     "Tu risa es mi canción favorita.",
@@ -104,10 +104,10 @@ const DAILY_MESSAGES = [
     "No sé cómo era mi vida antes de vos, y no quiero saberlo.",
     "Sos la razón por la que creo en el amor.",
     "Tu existencia hace que este mundo sea mejor.",
-    "Contigo todo tiene más sentido.",
+    "Con vos todo tiene más sentido.",
     "Sos mi persona favorita en este planeta.",
     "Me alegra tanto que existas.",
-    "Cada 'te quiero' que te digo es más grande que el anterior.",
+    "Cada 'te amo' que te digo es más grande que el anterior.",
     "Sos el tipo de persona que hace que valga la pena estar acá.",
     "Tu sonrisa arregla cualquier día.",
     "Me gusta quién soy cuando estoy con vos.",
@@ -150,7 +150,7 @@ const DAILY_MESSAGES = [
     "Gracias por hacer que el amor se sienta fácil.",
     "Sos la primera persona en la que pienso cuando algo sale bien.",
     "Todo lo que viví me trajo hasta vos, y eso lo hace valer.",
-    "Sos mi favorita, punto.",
+    "Sos mi unica y favorita.",
     "Hoy es un buen día para recordarte lo importante que sos para mí.",
     "No paro de agradecerte por existir.",
     "Sos la razón por la que sonrío solo.",
