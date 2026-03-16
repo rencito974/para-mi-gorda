@@ -17,7 +17,9 @@ body {
     color: var(--white);
     overflow-x: hidden;
     min-height: 100vh;
-    cursor: none;
+}
+@media (pointer: fine) {
+    body { cursor: none; }
 }
 
 /* ── Gradient Background ──────────────────────────────────── */
@@ -32,20 +34,24 @@ body {
         linear-gradient(180deg, #000 0%, #060006 50%, #000 100%);
 }
 
-/* ── Custom Cursor ────────────────────────────────────────── */
-.custom-cursor {
-    position: fixed;
-    pointer-events: none;
-    z-index: 10000;
-    transform: translate(-50%, -50%);
-    transition: transform 0.1s ease;
-    font-size: 22px;
-    line-height: 1;
-}
-.custom-cursor::before {
-    content: '❤️';
-    display: block;
-    animation: heartbeat 1.5s ease-in-out infinite;
+/* ── Custom Cursor (mouse/stylus only) ───────────────────── */
+.custom-cursor { display: none; }
+@media (pointer: fine) {
+    .custom-cursor {
+        display: block;
+        position: fixed;
+        pointer-events: none;
+        z-index: 10000;
+        transform: translate(-50%, -50%);
+        transition: transform 0.1s ease;
+        font-size: 22px;
+        line-height: 1;
+    }
+    .custom-cursor::before {
+        content: '❤️';
+        display: block;
+        animation: heartbeat 1.5s ease-in-out infinite;
+    }
 }
 @keyframes heartbeat {
     0%,100% { transform: scale(1); }
@@ -92,7 +98,9 @@ body {
     -webkit-backdrop-filter: blur(22px);
     box-shadow: 0 6px 30px rgba(0,0,0,0.65), 0 0 20px rgba(255, 20, 147, 0.18);
     transition: box-shadow 0.35s ease;
-    cursor: none;
+}
+@media (pointer: fine) {
+    .music-widget { cursor: none; }
 }
 .music-widget.playing {
     box-shadow: 0 6px 30px rgba(0,0,0,0.65), 0 0 35px rgba(255, 20, 147, 0.55);
