@@ -63,7 +63,6 @@ const MOMENTS = [
             'Images/13-03-2026/Img1.HEIC',
             'Images/13-03-2026/Img2.HEIC',
             'Images/13-03-2026/Img3.HEIC',
-            'Images/13-03-2026/Vid1.MOV',
             'Images/13-03-2026/Vid2.MOV'
         ]
     },
